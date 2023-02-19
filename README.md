@@ -2,6 +2,8 @@
 Sample file or directory events monitor.
 
 ## Example
+Example taked from src/examples/index.ts
+
 
 ```
 import Monitor, { Options, FileEvent } from "../index.js";
